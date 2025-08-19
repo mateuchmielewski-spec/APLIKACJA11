@@ -1,0 +1,5 @@
+{
+  "name": "Atlas Roślin",
+  "description": "Aplikacja do identyfikacji roślin na podstawie zdjęć, dostarczająca informacji o ich właściwościach jadalnych, leczniczych i morfologii.",
+  "requestFramePermissions": []
+}
